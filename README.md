@@ -1,5 +1,5 @@
 # Repo information 
-This is the files that I was studying before using `npm` and `yarn`
+This is the files that I was studying using `npm` and `yarn`
 
 ## There are two repo
 In the two repos there are different things I learnd such as routing or making to due lists
